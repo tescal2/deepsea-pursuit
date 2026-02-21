@@ -1,6 +1,6 @@
 # 🦞 Deep Sea Pursuit
 
-A satirical Flappy Bird-style game for the Azure ACR team. Navigate the **pipeline** as a blue lobster, collect **MACCs** (Microsoft Azure Consumption Commitments) for revenue multipliers, and try to hit quota across all four quarters.
+A satirical Flappy Bird-style game. Navigate the **pipeline** as a blue lobster, collect **MACCs** for revenue multipliers, and try to hit quota across all four quarters.
 
 ## Play
 
